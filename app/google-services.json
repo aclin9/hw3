@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "315535038013",
+    "project_id": "firebase-bdhw3"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315535038013:android:3e1d314cf1df1178",
+        "android_client_info": {
+          "package_name": "bbigdata.hw3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315535038013-ro51hfh4tor2mhq206h7g2ab6qvaona9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "315535038013-jo09be2ggrpi0tujn6l50krmkva4hfd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "bbigdata.hw3",
+            "certificate_hash": "4e615fbd64e8b5505ff766aa03c8242a1bece18b"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSmNaiOLSt91lg0cMJiNUrpQiz0kSk_J8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
